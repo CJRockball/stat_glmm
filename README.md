@@ -22,7 +22,7 @@ This repository focuses on worked notebook examples rather than a packaged Pytho
 - Model comparison between pooled and mixed-effects approaches.
 - Binomial, Poisson, and negative-binomial response modeling.
 - Normal models with random intercept and random slope formulations.
-- Practical notebook-based analysis with `statsmodels`, 'PyMC', `numpy`, `pandas`, `matplotlib`, and related scientific Python tools.
+- Practical notebook-based analysis with `statsmodels`, `PyMC`, `numpy`, `pandas`, `matplotlib`, and related scientific Python tools.
 
 ## Intended use
 
